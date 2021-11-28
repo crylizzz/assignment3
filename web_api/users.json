@@ -1,0 +1,18 @@
+[
+  {
+    "FirstName": "user",
+    "LastName": "user",
+    "Username": "user",
+    "Password": "user",
+    "Role": "Admin",
+    "SecurityLevel": 0
+  },
+  {
+    "FirstName": "user1",
+    "LastName": "user1",
+    "Username": "user1",
+    "Password": "USER1",
+    "Role": "Social Helper",
+    "SecurityLevel": 0
+  }
+]
